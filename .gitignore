@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# 密钥环境变量（禁止提交）
+.env
+
+# 数据文件（含业务数据，禁止提交）
+*.xlsx
+*.csv
+
+# 编辑器 / 系统
+.idea/
+.vscode/
+.DS_Store
